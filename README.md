@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Deviyansh Rajpurohit 👋
 
-<!--
-**Deviyansh/Deviyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at VIT Bhopal University, focused on software engineering, backend development, and AI/ML.
 
-Here are some ideas to get you started:
+I primarily work with **Java** and **Python**, and I'm interested in building practical, reliable software systems with strong foundations in data structures, databases, APIs, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Work With
+
+- **Languages:** Java, Python, SQL, JavaScript
+- **Backend:** Spring Boot, REST APIs, Spring Security, WebSocket
+- **Databases:** PostgreSQL, MySQL
+- **AI/ML:** Machine Learning, Deep Learning, TensorFlow, Scikit-learn, Computer Vision
+- **Cloud & Tools:** AWS, Docker, Git, GitHub, Maven, Postman
+
+## 🚀 Areas of Interest
+
+- Software Engineering
+- Backend Development
+- Java Development
+- AI/ML Engineering
+- Database-driven Applications
+- Real-time Systems
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/deviyansh-910r/)
+- [GitHub](https://github.com/Deviyansh)
